@@ -24,6 +24,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Remote OK Scraper | [remoteok-scraper](remoteok-scraper/) | [Open on Apify](https://apify.com/rigelbytes/remoteok-scraper) |
 | Skool Community Scraper | [skool-scraper](skool-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/skool-scraper) |
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
+| The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
 | Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trulia-scraper) |
 <!-- actors-index:end -->
 
