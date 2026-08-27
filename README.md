@@ -26,6 +26,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
 | The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
 | Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trulia-scraper) |
+| Zapier Apps Scraper | [zapier-apps-scraper](zapier-apps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zapier-apps-scraper) |
 <!-- actors-index:end -->
 
 ## Folder layout
