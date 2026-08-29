@@ -22,6 +22,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | Realestate.com.au Scraper | [realestate-com-au-scraper](realestate-com-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/realestate-com-au-scraper) |
+| Red Note Scraper | [rednote-scraper](rednote-scraper/) | [Open on Apify](https://apify.com/rigelbytes/rednote-scraper) |
 | Remote OK Scraper | [remoteok-scraper](remoteok-scraper/) | [Open on Apify](https://apify.com/rigelbytes/remoteok-scraper) |
 | Skool Community Scraper | [skool-scraper](skool-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/skool-scraper) |
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
