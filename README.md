@@ -13,6 +13,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 |---|---|---|
 | Apartments.com Scraper | [apartments-scraper](apartments-scraper/) | [Open on Apify](https://apify.com/rigelbytes/apartments-scraper) |
 | AppSumo Scraper | [appsumo-scraper](appsumo-scraper/) | [Open on Apify](https://apify.com/rigelbytes/appsumo-scraper) |
+| Bilibili Scraper | [bilibili-scraper](bilibili-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bilibili-scraper) |
 | Booking.com Scraper | [booking-com-scraper](booking-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/booking-com-scraper) |
 | Crexi Scraper | [crexi-scraper](crexi-scraper/) | [Open on Apify](https://apify.com/datascrapers/crexi-scraper) |
 | Dice.com Job Scraper | [dice-scraper](dice-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dice-scraper) |
