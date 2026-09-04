@@ -19,6 +19,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Dice.com Job Scraper | [dice-scraper](dice-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dice-scraper) |
 | Disboard Scraper | [disboard-scraper](disboard-scraper/) | [Open on Apify](https://apify.com/rigelbytes/disboard-scraper) |
 | Dubizzle UAE Scraper | [dubizzle-scraper](dubizzle-scraper/) | [Open on Apify](https://apify.com/scraptivo/dubizzle-scraper) |
+| eBay Product Scraper | [ebay-scraper](ebay-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ebay-scraper) |
 | Facebook Ads Library Scraper | [facebook-ads-scraper](facebook-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-ads-scraper) |
 | Facebook Marketplace Scraper | [facebook-marketplace](facebook-marketplace/) | [Open on Apify](https://apify.com/rigelbytes/facebook-marketplace) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
