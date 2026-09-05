@@ -23,6 +23,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Facebook Ads Library Scraper | [facebook-ads-scraper](facebook-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-ads-scraper) |
 | Facebook Marketplace Scraper | [facebook-marketplace](facebook-marketplace/) | [Open on Apify](https://apify.com/rigelbytes/facebook-marketplace) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
+| Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
 | hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/hipages-au-scraper) |
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |
