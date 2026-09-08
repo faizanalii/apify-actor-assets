@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Housing.com scraper does
 
-Extract Housing.com listings — prices, BHK, locality, sellers — and optional agents for Indian market research and inventory monitoring.
+Scrape Housing.com property listings from a city search or URL. Export prices, localities, BHK, and optional agent names for inventory research and outreach.
 
 Use it as a Housing.com scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
