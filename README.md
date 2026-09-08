@@ -30,6 +30,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
+| MagicBricks Scraper | [magicbricks-scraper](magicbricks-scraper/) | [Open on Apify](https://apify.com/rigelbytes/magicbricks-scraper) |
 | Naukri Job Scraper | [naukri-scraper](naukri-scraper/) | [Open on Apify](https://apify.com/datascrapers/naukri-scraper) |
 | Open Construction Estimate Scraper | [openconstructionestimate-scraper](openconstructionestimate-scraper/) | [Open on Apify](https://apify.com/rigelbytes/openconstructionestimate-scraper) |
 | Realestate.com.au Scraper | [realestate-com-au-scraper](realestate-com-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/realestate-com-au-scraper) |
