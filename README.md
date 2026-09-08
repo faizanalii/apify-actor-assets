@@ -26,6 +26,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
 | hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/hipages-au-scraper) |
+| Housing.com Scraper | [housing-com-scraper](housing-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/housing-com-scraper) |
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
