@@ -14,6 +14,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | 99acres Scraper | [99acres-scraper](99acres-scraper/) | [Open on Apify](https://apify.com/rigelbytes/99acres-scraper) |
 | Apartments.com Scraper | [apartments-scraper](apartments-scraper/) | [Open on Apify](https://apify.com/rigelbytes/apartments-scraper) |
 | AppSumo Scraper | [appsumo-scraper](appsumo-scraper/) | [Open on Apify](https://apify.com/rigelbytes/appsumo-scraper) |
+| Back Market Scraper | [backmarket-scraper](backmarket-scraper/) | [Open on Apify](https://apify.com/rigelbytes/backmarket-scraper) |
 | Bilibili Scraper | [bilibili-scraper](bilibili-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bilibili-scraper) |
 | Booking.com Scraper | [booking-com-scraper](booking-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/booking-com-scraper) |
 | Carrefour Product Scraper | [carrefour-scraper](carrefour-scraper/) | [Open on Apify](https://apify.com/rigelbytes/carrefour-scraper) |
