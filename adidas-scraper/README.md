@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Adidas scraper does
 
-Scrape Adidas product listings from 33 country storefronts via search queries, category URLs, or product IDs. Export structured product data with optional full PDP details.
+Scrape Adidas product listings from 33 country storefronts by search, category URL, or product ID. Export prices, images, and optional full product details.
 
 Use it as a Adidas scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
