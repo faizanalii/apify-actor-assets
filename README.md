@@ -12,6 +12,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Actor | Folder | Store |
 |---|---|---|
 | 99acres Scraper | [99acres-scraper](99acres-scraper/) | [Open on Apify](https://apify.com/rigelbytes/99acres-scraper) |
+| Adidas Product Scraper | [adidas-scraper](adidas-scraper/) | [Open on Apify](https://apify.com/rigelbytes/adidas-scraper) |
 | Apartments.com Scraper | [apartments-scraper](apartments-scraper/) | [Open on Apify](https://apify.com/rigelbytes/apartments-scraper) |
 | AppSumo Scraper | [appsumo-scraper](appsumo-scraper/) | [Open on Apify](https://apify.com/rigelbytes/appsumo-scraper) |
 | Back Market Scraper | [backmarket-scraper](backmarket-scraper/) | [Open on Apify](https://apify.com/rigelbytes/backmarket-scraper) |
