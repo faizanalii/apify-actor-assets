@@ -36,6 +36,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
 | MagicBricks Scraper | [magicbricks-scraper](magicbricks-scraper/) | [Open on Apify](https://apify.com/rigelbytes/magicbricks-scraper) |
 | Manta Scraper | [manta-scraper](manta-scraper/) | [Open on Apify](https://apify.com/rigelbytes/manta-scraper) |
+| Marktplaats.nl Scraper | [marktplaats-nl-scraper](marktplaats-nl-scraper/) | [Open on Apify](https://apify.com/rigelbytes/marktplaats-nl-scraper) |
 | MediaMarkt Germany Product Scraper | [mediamarkt-de-scraper](mediamarkt-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/mediamarkt-de-scraper) |
 | Naukri Job Scraper | [naukri-scraper](naukri-scraper/) | [Open on Apify](https://apify.com/datascrapers/naukri-scraper) |
 | Nike Scraper | [nike-scraper](nike-scraper/) | [Open on Apify](https://apify.com/rigelbytes/nike-scraper) |
