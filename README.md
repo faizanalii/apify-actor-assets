@@ -50,6 +50,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Remote OK Scraper | [remoteok-scraper](remoteok-scraper/) | [Open on Apify](https://apify.com/rigelbytes/remoteok-scraper) |
 | SEEK Australia Jobs Scraper | [seek-au-jobs-scraper](seek-au-jobs-scraper/) | [Open on Apify](https://apify.com/rigelbytes/seek-au-jobs-scraper) |
 | Skool Community Scraper | [skool-scraper](skool-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/skool-scraper) |
+| Stayz.com.au Scraper | [stayz-com-au](stayz-com-au/) | [Open on Apify](https://apify.com/rigelbytes/stayz-com-au) |
 | StreetEasy Scraper | [streeteasy-scraper](streeteasy-scraper/) | [Open on Apify](https://apify.com/rigelbytes/streeteasy-scraper) |
 | Subito.it Scraper | [subito-scraper](subito-scraper/) | [Open on Apify](https://apify.com/rigelbytes/subito-scraper) |
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
