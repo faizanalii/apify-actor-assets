@@ -55,6 +55,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Subito.it Scraper | [subito-scraper](subito-scraper/) | [Open on Apify](https://apify.com/rigelbytes/subito-scraper) |
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
 | The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
+| The North Face Scraper | [thenorthface-scraper](thenorthface-scraper/) | [Open on Apify](https://apify.com/rigelbytes/thenorthface-scraper) |
 | Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trulia-scraper) |
 | Trustpilot Company Scraper | [trustpilot-scraper](trustpilot-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustpilot-scraper) |
 | TrustRadius Scraper | [trustradius-scraper](trustradius-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustradius-scraper) |
