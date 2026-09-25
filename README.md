@@ -62,6 +62,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Trustpilot Company Scraper | [trustpilot-scraper](trustpilot-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustpilot-scraper) |
 | TrustRadius Scraper | [trustradius-scraper](trustradius-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustradius-scraper) |
 | Zapier Apps Scraper | [zapier-apps-scraper](zapier-apps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zapier-apps-scraper) |
+| Zara Scraper | [zara-scraper](zara-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zara-scraper) |
 <!-- actors-index:end -->
 
 ## Folder layout
