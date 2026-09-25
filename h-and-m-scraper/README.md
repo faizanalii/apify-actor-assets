@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this H&M scraper does
 
-Scrape H&M products from search queries and category URLs. Export prices, colors, sizes, swatches, and optional product details as JSON or CSV.
+Scrape H&M products from search and category URLs with optional descriptions and composition.
 
 Use it as a H&M scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
