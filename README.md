@@ -45,6 +45,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | MediaMarkt Germany Product Scraper | [mediamarkt-de-scraper](mediamarkt-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/mediamarkt-de-scraper) |
 | Naukri Job Scraper | [naukri-scraper](naukri-scraper/) | [Open on Apify](https://apify.com/datascrapers/naukri-scraper) |
 | Nike Scraper | [nike-scraper](nike-scraper/) | [Open on Apify](https://apify.com/rigelbytes/nike-scraper) |
+| Old Navy Scraper | [oldnavy-gap-scraper](oldnavy-gap-scraper/) | [Open on Apify](https://apify.com/rigelbytes/oldnavy-gap-scraper) |
 | Open Construction Estimate Scraper | [openconstructionestimate-scraper](openconstructionestimate-scraper/) | [Open on Apify](https://apify.com/rigelbytes/openconstructionestimate-scraper) |
 | Realestate.com.au Scraper | [realestate-com-au-scraper](realestate-com-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/realestate-com-au-scraper) |
 | Red Note Scraper | [rednote-scraper](rednote-scraper/) | [Open on Apify](https://apify.com/rigelbytes/rednote-scraper) |
