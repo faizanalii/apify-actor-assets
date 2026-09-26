@@ -29,6 +29,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Electromaps Scraper | [electromaps-scraper](electromaps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/electromaps-scraper) |
 | Facebook Ads Library Scraper | [facebook-ads-scraper](facebook-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-ads-scraper) |
 | Facebook Marketplace Scraper | [facebook-marketplace](facebook-marketplace/) | [Open on Apify](https://apify.com/rigelbytes/facebook-marketplace) |
+| Fat Brain Toys Scraper | [fatbraintoys-scraper](fatbraintoys-scraper/) | [Open on Apify](https://apify.com/rigelbytes/fatbraintoys-scraper) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
