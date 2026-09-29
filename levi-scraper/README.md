@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Levi's scraper does
 
-Scrape Levi's product listings from search queries, category URLs, or product IDs, with optional sizes, descriptions, and customer reviews for retail analytics and catalog feeds.
+Scrape Levi's product listings from search, categories, or product IDs with optional sizes, stock, and Bazaarvoice reviews.
 
 Use it as a Levi's scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
