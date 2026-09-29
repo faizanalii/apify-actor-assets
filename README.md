@@ -41,6 +41,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Instacart Store Scraper | [instacart-store-scraper](instacart-store-scraper/) | [Open on Apify](https://apify.com/rigelbytes/instacart-store-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
+| Levi's Scraper | [levi-scraper](levi-scraper/) | [Open on Apify](https://apify.com/rigelbytes/levi-scraper) |
 | MagicBricks Scraper | [magicbricks-scraper](magicbricks-scraper/) | [Open on Apify](https://apify.com/rigelbytes/magicbricks-scraper) |
 | Manta Scraper | [manta-scraper](manta-scraper/) | [Open on Apify](https://apify.com/rigelbytes/manta-scraper) |
 | Marktplaats.nl Scraper | [marktplaats-nl-scraper](marktplaats-nl-scraper/) | [Open on Apify](https://apify.com/rigelbytes/marktplaats-nl-scraper) |
