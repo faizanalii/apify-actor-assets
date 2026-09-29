@@ -19,6 +19,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Back Market Scraper | [backmarket-scraper](backmarket-scraper/) | [Open on Apify](https://apify.com/rigelbytes/backmarket-scraper) |
 | Bilibili Scraper | [bilibili-scraper](bilibili-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bilibili-scraper) |
 | Booking.com Scraper | [booking-com-scraper](booking-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/booking-com-scraper) |
+| Calvin Klein Product Scraper | [calvinklein-scraper](calvinklein-scraper/) | [Open on Apify](https://apify.com/rigelbytes/calvinklein-scraper) |
 | Carrefour Product Scraper | [carrefour-scraper](carrefour-scraper/) | [Open on Apify](https://apify.com/rigelbytes/carrefour-scraper) |
 | Cdiscount Scraper | [cdiscount-scraper](cdiscount-scraper/) | [Open on Apify](https://apify.com/rigelbytes/cdiscount-scraper) |
 | Chargefinder Scraper | [chargefinder-scraper](chargefinder-scraper/) | [Open on Apify](https://apify.com/rigelbytes/chargefinder-scraper) |
