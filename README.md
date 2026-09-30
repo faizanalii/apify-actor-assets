@@ -59,6 +59,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | SEEK Australia Jobs Scraper | [seek-au-jobs-scraper](seek-au-jobs-scraper/) | [Open on Apify](https://apify.com/rigelbytes/seek-au-jobs-scraper) |
 | Skool Community Scraper | [skool-scraper](skool-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/skool-scraper) |
 | Skyscanner Flights Scraper | [skyscanner-scraper](skyscanner-scraper/) | [Open on Apify](https://apify.com/rigelbytes/skyscanner-scraper) |
+| Sreality.cz Real Estate Scraper | [sreality-scraper](sreality-scraper/) | [Open on Apify](https://apify.com/rigelbytes/sreality-scraper) |
 | Stayz.com.au Scraper | [stayz-com-au](stayz-com-au/) | [Open on Apify](https://apify.com/rigelbytes/stayz-com-au) |
 | StreetEasy Scraper | [streeteasy-scraper](streeteasy-scraper/) | [Open on Apify](https://apify.com/rigelbytes/streeteasy-scraper) |
 | Subito.it Scraper | [subito-scraper](subito-scraper/) | [Open on Apify](https://apify.com/rigelbytes/subito-scraper) |
