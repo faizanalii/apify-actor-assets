@@ -72,6 +72,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | TrustRadius Scraper | [trustradius-scraper](trustradius-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustradius-scraper) |
 | Under Armour Scraper | [underarmour-scraper](underarmour-scraper/) | [Open on Apify](https://apify.com/rigelbytes/underarmour-scraper) |
 | Walmart Scraper | [walmart-scraper](walmart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/walmart-scraper) |
+| Wasalt.sa Real Estate Scraper | [wasalt-sa-scraper](wasalt-sa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/wasalt-sa-scraper) |
 | Zapier Apps Scraper | [zapier-apps-scraper](zapier-apps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zapier-apps-scraper) |
 | Zara Scraper | [zara-scraper](zara-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zara-scraper) |
 <!-- actors-index:end -->
