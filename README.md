@@ -53,6 +53,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Nike Scraper | [nike-scraper](nike-scraper/) | [Open on Apify](https://apify.com/rigelbytes/nike-scraper) |
 | Old Navy Scraper | [oldnavy-gap-scraper](oldnavy-gap-scraper/) | [Open on Apify](https://apify.com/rigelbytes/oldnavy-gap-scraper) |
 | Open Construction Estimate Scraper | [openconstructionestimate-scraper](openconstructionestimate-scraper/) | [Open on Apify](https://apify.com/rigelbytes/openconstructionestimate-scraper) |
+| OTTO.de Scraper | [otto-de-scraper](otto-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/otto-de-scraper) |
 | Property Finder Bahrain Scraper | [propertyfinder-bahrain](propertyfinder-bahrain/) | [Open on Apify](https://apify.com/rigelbytes/propertyfinder-bahrain) |
 | Realestate.com.au Scraper | [realestate-com-au-scraper](realestate-com-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/realestate-com-au-scraper) |
 | Red Note Scraper | [rednote-scraper](rednote-scraper/) | [Open on Apify](https://apify.com/rigelbytes/rednote-scraper) |
