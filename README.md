@@ -69,6 +69,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
 | The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
 | The North Face Scraper | [thenorthface-scraper](thenorthface-scraper/) | [Open on Apify](https://apify.com/rigelbytes/thenorthface-scraper) |
+| Tigros Scraper | [tigros-scraper](tigros-scraper/) | [Open on Apify](https://apify.com/rigelbytes/tigros-scraper) |
 | Timeshop24 Scraper | [timeshop24-scraper](timeshop24-scraper/) | [Open on Apify](https://apify.com/rigelbytes/timeshop24-scraper) |
 | Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trulia-scraper) |
 | Trustpilot Company Scraper | [trustpilot-scraper](trustpilot-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustpilot-scraper) |
