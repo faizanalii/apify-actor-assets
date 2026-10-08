@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Tigros scraper does
 
-Scrape Tigros grocery products from search queries or category, search, and product URLs, with optional ingredients, images, and recycling details for feeds and assortment research.
+Scrape Tigros Italy grocery products from search or category URLs with optional ingredients and image galleries.
 
 Use it as a Tigros scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
