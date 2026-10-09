@@ -43,6 +43,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Housing.com Scraper | [housing-com-scraper](housing-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/housing-com-scraper) |
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |
 | Instacart Store Scraper | [instacart-store-scraper](instacart-store-scraper/) | [Open on Apify](https://apify.com/rigelbytes/instacart-store-scraper) |
+| Instagram Email Scraper | [instagram-email-scraper](instagram-email-scraper/) | [Open on Apify](https://apify.com/rigelbytes/instagram-email-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
 | Levi's Scraper | [levi-scraper](levi-scraper/) | [Open on Apify](https://apify.com/rigelbytes/levi-scraper) |
