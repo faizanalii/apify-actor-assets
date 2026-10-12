@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Ryanair scraper does
 
-Scrape Ryanair flight availability, priced fares, and calendar dates for origin/destination routes. Pass IATA codes and travel dates and export structured flight records for monitoring and automation.
+Scrape Ryanair calendar availability and priced outbound/inbound flights by IATA route and travel dates.
 
 Use it as a Ryanair scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
