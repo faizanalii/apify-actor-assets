@@ -36,6 +36,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Esselunga Scraper | [esselunga-scraper](esselunga-scraper/) | [Open on Apify](https://apify.com/rigelbytes/esselunga-scraper) |
 | Facebook Ads Library Scraper | [facebook-ads-scraper](facebook-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-ads-scraper) |
 | Facebook Marketplace Scraper | [facebook-marketplace](facebook-marketplace/) | [Open on Apify](https://apify.com/rigelbytes/facebook-marketplace) |
+| Facebook Page Scraper | [facebook-page-scraper](facebook-page-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-page-scraper) |
 | Fat Brain Toys Scraper | [fatbraintoys-scraper](fatbraintoys-scraper/) | [Open on Apify](https://apify.com/rigelbytes/fatbraintoys-scraper) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
