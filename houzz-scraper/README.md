@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Houzz scraper does
 
-Scrape Houzz photo projects with browse filters and optional designer details and reviews on one dataset row.
+Scrape Houzz photo projects with designer profiles, services, and reviews in one dataset row per project.
 
 Use it as a Houzz scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
