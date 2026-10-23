@@ -15,6 +15,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | 99acres Scraper | [99acres-scraper](99acres-scraper/) | [Open on Apify](https://apify.com/datascrapers/99acres-scraper) |
 | Adidas Product Scraper | [adidas-scraper](adidas-scraper/) | [Open on Apify](https://apify.com/datascrapers/adidas-scraper) |
 | Aengevelt Scraper | [aengevelt-scraper](aengevelt-scraper/) | [Open on Apify](https://apify.com/datascrapers/aengevelt-scraper) |
+| Airbnb Address Finder | [airbnb-address-finder](airbnb-address-finder/) | [Open on Apify](https://apify.com/datascrapers/airbnb-address-finder) |
 | Alibaba Scraper | [alibaba-scraper](alibaba-scraper/) | [Open on Apify](https://apify.com/rigelbytes/alibaba-scraper) |
 | AliExpress Scraper | [aliexpress-scraper](aliexpress-scraper/) | [Open on Apify](https://apify.com/datascrapers/aliexpress-scraper) |
 | Apartments.com Scraper | [apartments-scraper](apartments-scraper/) | [Open on Apify](https://apify.com/rigelbytes/apartments-scraper) |
