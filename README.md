@@ -103,6 +103,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Wasalt.sa Real Estate Scraper | [wasalt-sa-scraper](wasalt-sa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/wasalt-sa-scraper) |
 | Zapier Apps Scraper | [zapier-apps-scraper](zapier-apps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zapier-apps-scraper) |
 | Zara Scraper | [zara-scraper](zara-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zara-scraper) |
+| Zillow Agents Scraper | [zillow-agents-scraper](zillow-agents-scraper/) | [Open on Apify](https://apify.com/datascrapers/zillow-agents-scraper) |
 | Zillow Agents Vault | [zillow-agents-vault](zillow-agents-vault/) | [Open on Apify](https://apify.com/datascrapers/zillow-agents-vault) |
 <!-- actors-index:end -->
 
