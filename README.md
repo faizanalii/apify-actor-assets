@@ -45,6 +45,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Facebook Page Scraper | [facebook-page-scraper](facebook-page-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-page-scraper) |
 | Fat Brain Toys Scraper | [fatbraintoys-scraper](fatbraintoys-scraper/) | [Open on Apify](https://apify.com/rigelbytes/fatbraintoys-scraper) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
+| Furnished Finder Scraper | [furnishedfinder](furnishedfinder/) | [Open on Apify](https://apify.com/datascrapers/furnishedfinder) |
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
 | H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/rigelbytes/h-and-m-scraper) |
