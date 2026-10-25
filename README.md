@@ -19,6 +19,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Airbnb Availability Calendar | [airbnb-availability-calendar](airbnb-availability-calendar/) | [Open on Apify](https://apify.com/datascrapers/airbnb-availability-calendar) |
 | Airbnb Image Downloader | [airbnb-images-downloader](airbnb-images-downloader/) | [Open on Apify](https://apify.com/datascrapers/airbnb-images-downloader) |
 | Airbnb Listing Scraper | [airbnb-listing](airbnb-listing/) | [Open on Apify](https://apify.com/datascrapers/airbnb-listing) |
+| Airbnb Listing URLs | [airbnb-listing-urls](airbnb-listing-urls/) | [Open on Apify](https://apify.com/datascrapers/airbnb-listing-urls) |
 | Alibaba Scraper | [alibaba-scraper](alibaba-scraper/) | [Open on Apify](https://apify.com/rigelbytes/alibaba-scraper) |
 | AliExpress Scraper | [aliexpress-scraper](aliexpress-scraper/) | [Open on Apify](https://apify.com/datascrapers/aliexpress-scraper) |
 | Apartments.com Scraper | [apartments-scraper](apartments-scraper/) | [Open on Apify](https://apify.com/rigelbytes/apartments-scraper) |
