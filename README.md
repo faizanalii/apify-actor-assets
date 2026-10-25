@@ -25,6 +25,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | AliExpress Scraper | [aliexpress-scraper](aliexpress-scraper/) | [Open on Apify](https://apify.com/datascrapers/aliexpress-scraper) |
 | Apartments.com Scraper | [apartments-scraper](apartments-scraper/) | [Open on Apify](https://apify.com/rigelbytes/apartments-scraper) |
 | AppSumo Scraper | [appsumo-scraper](appsumo-scraper/) | [Open on Apify](https://apify.com/rigelbytes/appsumo-scraper) |
+| Aqar.fm Scraper | [aqar-fm-scraper](aqar-fm-scraper/) | [Open on Apify](https://apify.com/datascrapers/aqar-fm-scraper) |
 | Back Market Scraper | [backmarket-scraper](backmarket-scraper/) | [Open on Apify](https://apify.com/rigelbytes/backmarket-scraper) |
 | Bayut KSA Property Scraper | [bayut-sa-scraper](bayut-sa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bayut-sa-scraper) |
 | Bezrealitky Real Estate Scraper | [bezrealitky-scraper](bezrealitky-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bezrealitky-scraper) |
