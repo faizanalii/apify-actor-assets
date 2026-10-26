@@ -103,7 +103,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trulia-scraper) |
 | Trustpilot Company Scraper | [trustpilot-scraper](trustpilot-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustpilot-scraper) |
 | TrustRadius Scraper | [trustradius-scraper](trustradius-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustradius-scraper) |
-| Turo Car Scraper | [turo-car-scraper](turo-car-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/turo-car-scraper) |
+| Turo Car Scraper | [turo-car-scraper](turo-car-scraper/) | [Open on Apify](https://apify.com/datascrapers/turo-car-scraper) |
 | Uber Eats Scraper | [ubereats-scraper](ubereats-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ubereats-scraper) |
 | Uhrcenter Scraper | [uhrcenter-scraper](uhrcenter-scraper/) | [Open on Apify](https://apify.com/rigelbytes/uhrcenter-scraper) |
 | Under Armour Scraper | [underarmour-scraper](underarmour-scraper/) | [Open on Apify](https://apify.com/rigelbytes/underarmour-scraper) |
