@@ -29,7 +29,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | AroundTown Property Overview | [aroundtown](aroundtown/) | [Open on Apify](https://apify.com/datascrapers/aroundtown) |
 | Asunnot Oikotie.fi Real Estate Scraper | [asunnot-oikotie-fi](asunnot-oikotie-fi/) | [Open on Apify](https://apify.com/datascrapers/asunnot-oikotie-fi) |
 | Back Market Scraper | [backmarket-scraper](backmarket-scraper/) | [Open on Apify](https://apify.com/datascrapers/backmarket-scraper) |
-| Bayut KSA Property Scraper | [bayut-sa-scraper](bayut-sa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bayut-sa-scraper) |
+| Bayut KSA Property Scraper | [bayut-sa-scraper](bayut-sa-scraper/) | [Open on Apify](https://apify.com/datascrapers/bayut-sa-scraper) |
 | Bezrealitky Real Estate Scraper | [bezrealitky-scraper](bezrealitky-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bezrealitky-scraper) |
 | Bilibili Scraper | [bilibili-scraper](bilibili-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bilibili-scraper) |
 | Booking.com Scraper | [booking-com-scraper](booking-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/booking-com-scraper) |
