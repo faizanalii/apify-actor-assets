@@ -35,6 +35,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Bilibili Scraper | [bilibili-scraper](bilibili-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bilibili-scraper) |
 | BNP Paribas Real Estate Scraper | [bnppre-scraper](bnppre-scraper/) | [Open on Apify](https://apify.com/datascrapers/bnppre-scraper) |
 | Boliga Scraper | [boliga-dk-scraper](boliga-dk-scraper/) | [Open on Apify](https://apify.com/datascrapers/boliga-dk-scraper) |
+| Boligsiden Scraper | [boligsiden-dk-scraper](boligsiden-dk-scraper/) | [Open on Apify](https://apify.com/datascrapers/boligsiden-dk-scraper) |
 | Booking.com Scraper | [booking-com-scraper](booking-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/booking-com-scraper) |
 | Calvin Klein Product Scraper | [calvinklein-scraper](calvinklein-scraper/) | [Open on Apify](https://apify.com/rigelbytes/calvinklein-scraper) |
 | Carrefour Product Scraper | [carrefour-scraper](carrefour-scraper/) | [Open on Apify](https://apify.com/rigelbytes/carrefour-scraper) |
