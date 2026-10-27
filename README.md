@@ -31,7 +31,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Back Market Scraper | [backmarket-scraper](backmarket-scraper/) | [Open on Apify](https://apify.com/datascrapers/backmarket-scraper) |
 | Bayut KSA Property Scraper | [bayut-sa-scraper](bayut-sa-scraper/) | [Open on Apify](https://apify.com/datascrapers/bayut-sa-scraper) |
 | BBB Scraper | [bbb-scraper](bbb-scraper/) | [Open on Apify](https://apify.com/datascrapers/bbb-scraper) |
-| Bezrealitky Real Estate Scraper | [bezrealitky-scraper](bezrealitky-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bezrealitky-scraper) |
+| Bezrealitky Scraper | [bezrealitky-scraper](bezrealitky-scraper/) | [Open on Apify](https://apify.com/datascrapers/bezrealitky-scraper) |
 | Bilibili Scraper | [bilibili-scraper](bilibili-scraper/) | [Open on Apify](https://apify.com/rigelbytes/bilibili-scraper) |
 | Booking.com Scraper | [booking-com-scraper](booking-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/booking-com-scraper) |
 | Calvin Klein Product Scraper | [calvinklein-scraper](calvinklein-scraper/) | [Open on Apify](https://apify.com/rigelbytes/calvinklein-scraper) |
