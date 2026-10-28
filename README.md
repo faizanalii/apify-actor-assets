@@ -40,6 +40,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Booli Scraper | [booli-se-scraper](booli-se-scraper/) | [Open on Apify](https://apify.com/datascrapers/booli-se-scraper) |
 | Calvin Klein Scraper | [calvinklein-scraper](calvinklein-scraper/) | [Open on Apify](https://apify.com/datascrapers/calvinklein-scraper) |
 | Carrefour Scraper | [carrefour-scraper](carrefour-scraper/) | [Open on Apify](https://apify.com/datascrapers/carrefour-scraper) |
+| Cars and Bids Scraper | [carsandbids-scraper](carsandbids-scraper/) | [Open on Apify](https://apify.com/datascrapers/carsandbids-scraper) |
 | Cdiscount Scraper | [cdiscount-scraper](cdiscount-scraper/) | [Open on Apify](https://apify.com/rigelbytes/cdiscount-scraper) |
 | Chargefinder Scraper | [chargefinder-scraper](chargefinder-scraper/) | [Open on Apify](https://apify.com/rigelbytes/chargefinder-scraper) |
 | Crexi Scraper | [crexi-scraper](crexi-scraper/) | [Open on Apify](https://apify.com/datascrapers/crexi-scraper) |
