@@ -1,22 +1,22 @@
 # Cdiscount Scraper
 
-**Cdiscount Scraper** is an Apify Actor by Rigel Bytes for Cdiscount data.
+**Cdiscount Scraper** is an Apify Actor by Data Scrapers for Cdiscount data.
 
 This folder hosts the public demo GIF used on the Actor README. The scraper itself runs on Apify Store — not in this repository.
 
-**[Cdiscount Scraper on Apify](https://apify.com/rigelbytes/cdiscount-scraper)**
+**[Cdiscount Scraper on Apify](https://apify.com/datascrapers/cdiscount-scraper)**
 
-[![Cdiscount Scraper — input to structured data](./cdiscount-scraper-value-demo.gif)](https://apify.com/rigelbytes/cdiscount-scraper)
+[![Cdiscount Scraper — input to structured data](./cdiscount-scraper-value-demo.gif)](https://apify.com/datascrapers/cdiscount-scraper)
 
 ## What this Cdiscount scraper does
 
-Extract Cdiscount France product listings, prices, optional details, and customer reviews for price monitoring, catalogs, and review analysis.
+Catalog offers with price, seller, and product URL.
 
 Use it as a Cdiscount scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
 ## Start here
 
-1. Open [Cdiscount Scraper](https://apify.com/rigelbytes/cdiscount-scraper) on Apify Store.
+1. Open [Cdiscount Scraper](https://apify.com/datascrapers/cdiscount-scraper) on Apify Store.
 2. Paste your Cdiscount URLs, queries, or other documented inputs.
 3. Click **Start** and export JSON, CSV, Excel, or XML.
 

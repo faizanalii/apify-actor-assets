@@ -42,7 +42,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Carrefour Scraper | [carrefour-scraper](carrefour-scraper/) | [Open on Apify](https://apify.com/datascrapers/carrefour-scraper) |
 | Cars and Bids Scraper | [carsandbids-scraper](carsandbids-scraper/) | [Open on Apify](https://apify.com/datascrapers/carsandbids-scraper) |
 | CBRE Scraper | [cbre-scraper](cbre-scraper/) | [Open on Apify](https://apify.com/datascrapers/cbre-scraper) |
-| Cdiscount Scraper | [cdiscount-scraper](cdiscount-scraper/) | [Open on Apify](https://apify.com/rigelbytes/cdiscount-scraper) |
+| Cdiscount Scraper | [cdiscount-scraper](cdiscount-scraper/) | [Open on Apify](https://apify.com/datascrapers/cdiscount-scraper) |
 | Chargefinder Scraper | [chargefinder-scraper](chargefinder-scraper/) | [Open on Apify](https://apify.com/rigelbytes/chargefinder-scraper) |
 | Crexi Scraper | [crexi-scraper](crexi-scraper/) | [Open on Apify](https://apify.com/datascrapers/crexi-scraper) |
 | Dice.com Job Scraper | [dice-scraper](dice-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dice-scraper) |
