@@ -45,6 +45,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Cdiscount Scraper | [cdiscount-scraper](cdiscount-scraper/) | [Open on Apify](https://apify.com/datascrapers/cdiscount-scraper) |
 | Chargefinder Scraper | [chargefinder-scraper](chargefinder-scraper/) | [Open on Apify](https://apify.com/datascrapers/chargefinder-scraper) |
 | Colliers Scraper | [colliers-scraper](colliers-scraper/) | [Open on Apify](https://apify.com/datascrapers/colliers-scraper) |
+| Company Services Finder | [company-service-finder](company-service-finder/) | [Open on Apify](https://apify.com/datascrapers/company-service-finder) |
 | Crexi Scraper | [crexi-scraper](crexi-scraper/) | [Open on Apify](https://apify.com/datascrapers/crexi-scraper) |
 | Dice.com Job Scraper | [dice-scraper](dice-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dice-scraper) |
 | Disboard Scraper | [disboard-scraper](disboard-scraper/) | [Open on Apify](https://apify.com/rigelbytes/disboard-scraper) |
