@@ -108,7 +108,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | StreetEasy Scraper | [streeteasy-scraper](streeteasy-scraper/) | [Open on Apify](https://apify.com/rigelbytes/streeteasy-scraper) |
 | Subito.it Scraper | [subito-scraper](subito-scraper/) | [Open on Apify](https://apify.com/datascrapers/subito-scraper) |
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
-| TheFork Scraper | [thefork-scraper](thefork-scraper/) | [Open on Apify](https://apify.com/rigelbytes/thefork-scraper) |
+| TheFork Scraper | [thefork-scraper](thefork-scraper/) | [Open on Apify](https://apify.com/datascrapers/thefork-scraper) |
 | The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
 | The North Face Scraper | [thenorthface-scraper](thenorthface-scraper/) | [Open on Apify](https://apify.com/rigelbytes/thenorthface-scraper) |
 | Tigros Scraper | [tigros-scraper](tigros-scraper/) | [Open on Apify](https://apify.com/rigelbytes/tigros-scraper) |
