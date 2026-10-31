@@ -106,7 +106,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Sreality.cz Real Estate Scraper | [sreality-scraper](sreality-scraper/) | [Open on Apify](https://apify.com/rigelbytes/sreality-scraper) |
 | Stayz.com.au Scraper | [stayz-com-au](stayz-com-au/) | [Open on Apify](https://apify.com/rigelbytes/stayz-com-au) |
 | StreetEasy Scraper | [streeteasy-scraper](streeteasy-scraper/) | [Open on Apify](https://apify.com/rigelbytes/streeteasy-scraper) |
-| Subito.it Scraper | [subito-scraper](subito-scraper/) | [Open on Apify](https://apify.com/rigelbytes/subito-scraper) |
+| Subito.it Scraper | [subito-scraper](subito-scraper/) | [Open on Apify](https://apify.com/datascrapers/subito-scraper) |
 | Target.com Product Scraper | [target-scraper](target-scraper/) | [Open on Apify](https://apify.com/rigelbytes/target-scraper) |
 | TheFork Scraper | [thefork-scraper](thefork-scraper/) | [Open on Apify](https://apify.com/rigelbytes/thefork-scraper) |
 | The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
