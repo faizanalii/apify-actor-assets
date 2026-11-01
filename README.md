@@ -68,7 +68,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Furnished Finder Scraper | [furnishedfinder](furnishedfinder/) | [Open on Apify](https://apify.com/datascrapers/furnishedfinder) |
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
-| H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/rigelbytes/h-and-m-scraper) |
+| H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/datascrapers/h-and-m-scraper) |
 | HAR.com Scraper | [har-com-scraper](har-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/har-com-scraper) |
 | Hemnet.se Scraper | [hemnet-se-scraper](hemnet-se-scraper/) | [Open on Apify](https://apify.com/datascrapers/hemnet-se-scraper) |
 | hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/hipages-au-scraper) |
