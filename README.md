@@ -113,7 +113,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | The North Face Scraper | [thenorthface-scraper](thenorthface-scraper/) | [Open on Apify](https://apify.com/rigelbytes/thenorthface-scraper) |
 | Tigros Scraper | [tigros-scraper](tigros-scraper/) | [Open on Apify](https://apify.com/rigelbytes/tigros-scraper) |
 | Timeshop24 Scraper | [timeshop24-scraper](timeshop24-scraper/) | [Open on Apify](https://apify.com/rigelbytes/timeshop24-scraper) |
-| Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trulia-scraper) |
+| Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/datascrapers/trulia-scraper) |
 | Trustpilot Company Scraper | [trustpilot-scraper](trustpilot-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustpilot-scraper) |
 | TrustRadius Scraper | [trustradius-scraper](trustradius-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustradius-scraper) |
 | Turo Car Scraper | [turo-car-scraper](turo-car-scraper/) | [Open on Apify](https://apify.com/datascrapers/turo-car-scraper) |
