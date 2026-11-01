@@ -97,7 +97,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Qatar Airways Flight Scraper | [qatarairways-scraper](qatarairways-scraper/) | [Open on Apify](https://apify.com/rigelbytes/qatarairways-scraper) |
 | Realestate.com.au Scraper | [realestate-com-au-scraper](realestate-com-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/realestate-com-au-scraper) |
 | Red Note Scraper | [rednote-scraper](rednote-scraper/) | [Open on Apify](https://apify.com/rigelbytes/rednote-scraper) |
-| Refurbed.de Product Scraper | [refurbed-de-scraper](refurbed-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/refurbed-de-scraper) |
+| Refurbed.de Product Scraper | [refurbed-de-scraper](refurbed-de-scraper/) | [Open on Apify](https://apify.com/datascrapers/refurbed-de-scraper) |
 | Remote OK Scraper | [remoteok-scraper](remoteok-scraper/) | [Open on Apify](https://apify.com/rigelbytes/remoteok-scraper) |
 | Ryanair Flight Availability Scraper | [ryanair-scraper](ryanair-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ryanair-scraper) |
 | SEEK Australia Jobs Scraper | [seek-au-jobs-scraper](seek-au-jobs-scraper/) | [Open on Apify](https://apify.com/rigelbytes/seek-au-jobs-scraper) |
