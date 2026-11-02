@@ -66,6 +66,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Finn.no Real Estate Scraper | [finn-no-scraper](finn-no-scraper/) | [Open on Apify](https://apify.com/datascrapers/finn-no-scraper) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
 | Furnished Finder Scraper | [furnishedfinder](furnishedfinder/) | [Open on Apify](https://apify.com/datascrapers/furnishedfinder) |
+| Furnished Finder Listings and Host Contact Info | [furnishedfinder-listings-and-host-contact-info](furnishedfinder-listings-and-host-contact-info/) | [Open on Apify](https://apify.com/datascrapers/furnishedfinder-listings-and-host-contact-info) |
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/google-ads-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
 | H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/datascrapers/h-and-m-scraper) |
