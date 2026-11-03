@@ -10,7 +10,7 @@ This folder hosts the public demo GIF used on the Actor README. The scraper itse
 
 ## What this Zillow scraper does
 
-Instant access to 622,798 stored Zillow real estate agents by zip code, city, or state. Export names, brokerages, ratings, and profile URLs without searching Zillow.
+Instant access to more than half a million Zillow real estate agents by zip code, city, or state. Export names, brokerages, ratings, sales, and optional phone and email.
 
 Use it as a Zillow scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
