@@ -103,6 +103,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Ryanair Flight Availability Scraper | [ryanair-scraper](ryanair-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ryanair-scraper) |
 | SEEK Australia Jobs Scraper | [seek-au-jobs-scraper](seek-au-jobs-scraper/) | [Open on Apify](https://apify.com/rigelbytes/seek-au-jobs-scraper) |
 | SHEIN Scraper | [shein-scraper](shein-scraper/) | [Open on Apify](https://apify.com/datascrapers/shein-scraper) |
+| Singapore Real Estate Agents | [singapore-realestate-agents](singapore-realestate-agents/) | [Open on Apify](https://apify.com/datascrapers/singapore-realestate-agents) |
 | Skool Community Scraper | [skool-scraper](skool-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/skool-scraper) |
 | Skyscanner Flights Scraper | [skyscanner-scraper](skyscanner-scraper/) | [Open on Apify](https://apify.com/rigelbytes/skyscanner-scraper) |
 | Sreality.cz Real Estate Scraper | [sreality-scraper](sreality-scraper/) | [Open on Apify](https://apify.com/datascrapers/sreality-scraper) |
