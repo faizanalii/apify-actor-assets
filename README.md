@@ -121,7 +121,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Turo Car Scraper | [turo-car-scraper](turo-car-scraper/) | [Open on Apify](https://apify.com/datascrapers/turo-car-scraper) |
 | Uber Eats Scraper | [ubereats-scraper](ubereats-scraper/) | [Open on Apify](https://apify.com/datascrapers/ubereats-scraper) |
 | Uhrcenter Scraper | [uhrcenter-scraper](uhrcenter-scraper/) | [Open on Apify](https://apify.com/rigelbytes/uhrcenter-scraper) |
-| Under Armour Scraper | [underarmour-scraper](underarmour-scraper/) | [Open on Apify](https://apify.com/rigelbytes/underarmour-scraper) |
+| Under Armour Scraper | [underarmour-scraper](underarmour-scraper/) | [Open on Apify](https://apify.com/datascrapers/underarmour-scraper) |
 | Walmart Scraper | [walmart-scraper](walmart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/walmart-scraper) |
 | Wasalt.sa Real Estate Scraper | [wasalt-sa-scraper](wasalt-sa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/wasalt-sa-scraper) |
 | Zapier Apps Scraper | [zapier-apps-scraper](zapier-apps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zapier-apps-scraper) |
