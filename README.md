@@ -56,7 +56,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Dubizzle UAE Scraper | [dubizzle-scraper](dubizzle-scraper/) | [Open on Apify](https://apify.com/scraptivo/dubizzle-scraper) |
 | easyJet Flight Availability & Price Scraper | [easyjet-scraper](easyjet-scraper/) | [Open on Apify](https://apify.com/rigelbytes/easyJet-scraper) |
 | eBay Product Scraper | [ebay-scraper](ebay-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ebay-scraper) |
-| Electromaps Scraper | [electromaps-scraper](electromaps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/electromaps-scraper) |
+| Electromaps Scraper | [electromaps-scraper](electromaps-scraper/) | [Open on Apify](https://apify.com/datascrapers/electromaps-scraper) |
 | Esselunga Scraper | [esselunga-scraper](esselunga-scraper/) | [Open on Apify](https://apify.com/datascrapers/esselunga-scraper) |
 | Facebook Ads Library Scraper | [facebook-ads-scraper](facebook-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-ads-scraper) |
 | Facebook Groups Scraper | [facebook-groups-scraper](facebook-groups-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-groups-scraper) |
