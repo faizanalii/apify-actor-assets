@@ -91,7 +91,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | MediaMarkt Germany Product Scraper | [mediamarkt-de-scraper](mediamarkt-de-scraper/) | [Open on Apify](https://apify.com/datascrapers/mediamarkt-de-scraper) |
 | Naukri Job Scraper | [naukri-scraper](naukri-scraper/) | [Open on Apify](https://apify.com/datascrapers/naukri-scraper) |
 | Nike Scraper | [nike-scraper](nike-scraper/) | [Open on Apify](https://apify.com/rigelbytes/nike-scraper) |
-| Old Navy Scraper | [oldnavy-gap-scraper](oldnavy-gap-scraper/) | [Open on Apify](https://apify.com/rigelbytes/oldnavy-gap-scraper) |
+| Old Navy Scraper | [oldnavy-gap-scraper](oldnavy-gap-scraper/) | [Open on Apify](https://apify.com/datascrapers/oldnavy-gap-scraper) |
 | Open Construction Estimate Scraper | [openconstructionestimate-scraper](openconstructionestimate-scraper/) | [Open on Apify](https://apify.com/rigelbytes/openconstructionestimate-scraper) |
 | OTTO.de Scraper | [otto-de-scraper](otto-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/otto-de-scraper) |
 | Properstar Real Estate Scraper | [properstar-scraper](properstar-scraper/) | [Open on Apify](https://apify.com/rigelbytes/properstar-scraper) |
