@@ -116,7 +116,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | TheFork Scraper | [thefork-scraper](thefork-scraper/) | [Open on Apify](https://apify.com/datascrapers/thefork-scraper) |
 | The Movie Database (TMDB) Scraper | [themoviedb-scraper](themoviedb-scraper/) | [Open on Apify](https://apify.com/rigelbytes/themoviedb-scraper) |
 | The North Face Scraper | [thenorthface-scraper](thenorthface-scraper/) | [Open on Apify](https://apify.com/datascrapers/thenorthface-scraper) |
-| Tigros Scraper | [tigros-scraper](tigros-scraper/) | [Open on Apify](https://apify.com/rigelbytes/tigros-scraper) |
+| Tigros Scraper | [tigros-scraper](tigros-scraper/) | [Open on Apify](https://apify.com/datascrapers/tigros-scraper) |
 | Timeshop24 Scraper | [timeshop24-scraper](timeshop24-scraper/) | [Open on Apify](https://apify.com/rigelbytes/timeshop24-scraper) |
 | Trulia Scraper | [trulia-scraper](trulia-scraper/) | [Open on Apify](https://apify.com/datascrapers/trulia-scraper) |
 | Trustpilot Company Scraper | [trustpilot-scraper](trustpilot-scraper/) | [Open on Apify](https://apify.com/rigelbytes/trustpilot-scraper) |
