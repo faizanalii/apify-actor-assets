@@ -72,7 +72,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/datascrapers/h-and-m-scraper) |
 | HAR.com Scraper | [har-com-scraper](har-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/har-com-scraper) |
 | Hemnet.se Scraper | [hemnet-se-scraper](hemnet-se-scraper/) | [Open on Apify](https://apify.com/datascrapers/hemnet-se-scraper) |
-| hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/hipages-au-scraper) |
+| hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/datascrapers/hipages-au-scraper) |
 | Housing.com Scraper | [housing-com-scraper](housing-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/housing-com-scraper) |
 | Houzz Projects Scraper | [houzz-scraper](houzz-scraper/) | [Open on Apify](https://apify.com/datascrapers/houzz-scraper) |
 | HRS Hotel Reviews Scraper | [hrs-hotel-reviews-scraper](hrs-hotel-reviews-scraper/) | [Open on Apify](https://apify.com/datascrapers/hrs-hotel-reviews-scraper) |
