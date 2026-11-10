@@ -51,6 +51,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | DAHLER Real Estate Scraper | [dahler-scraper](dahler-scraper/) | [Open on Apify](https://apify.com/datascrapers/dahler-scraper) |
 | Dice.com Job Scraper | [dice-scraper](dice-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dice-scraper) |
 | Disboard Scraper | [disboard-scraper](disboard-scraper/) | [Open on Apify](https://apify.com/rigelbytes/disboard-scraper) |
+| Doctolib Doctor Scraper | [doctorlib-scraper](doctorlib-scraper/) | [Open on Apify](https://apify.com/datascrapers/doctorlib-scraper) |
 | DoorDash Scraper | [doordash-scraper](doordash-scraper/) | [Open on Apify](https://apify.com/rigelbytes/doordash-scraper) |
 | Dubizzle KSA Scraper | [dubizzle-ksa-scraper](dubizzle-ksa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dubizzle-ksa-scraper) |
 | Dubizzle UAE Scraper | [dubizzle-scraper](dubizzle-scraper/) | [Open on Apify](https://apify.com/scraptivo/dubizzle-scraper) |
