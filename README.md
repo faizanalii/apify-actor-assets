@@ -64,7 +64,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Facebook Groups Scraper | [facebook-groups-scraper](facebook-groups-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-groups-scraper) |
 | Facebook Marketplace Scraper | [facebook-marketplace](facebook-marketplace/) | [Open on Apify](https://apify.com/rigelbytes/facebook-marketplace) |
 | Facebook Page Scraper | [facebook-page-scraper](facebook-page-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-page-scraper) |
-| Fat Brain Toys Scraper | [fatbraintoys-scraper](fatbraintoys-scraper/) | [Open on Apify](https://apify.com/rigelbytes/fatbraintoys-scraper) |
+| Fat Brain Toys Scraper | [fatbraintoys-scraper](fatbraintoys-scraper/) | [Open on Apify](https://apify.com/datascrapers/fatbraintoys-scraper) |
 | Finn.no Real Estate Scraper | [finn-no-scraper](finn-no-scraper/) | [Open on Apify](https://apify.com/datascrapers/finn-no-scraper) |
 | Flipkart Product Scraper | [flipkart-scraper](flipkart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/flipkart-scraper) |
 | Furnished Finder Scraper | [furnishedfinder](furnishedfinder/) | [Open on Apify](https://apify.com/datascrapers/furnishedfinder) |
