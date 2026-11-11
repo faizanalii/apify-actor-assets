@@ -110,6 +110,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Singapore Real Estate Agents | [singapore-realestate-agents](singapore-realestate-agents/) | [Open on Apify](https://apify.com/datascrapers/singapore-realestate-agents) |
 | Skool Community Scraper | [skool-scraper](skool-scraper/) | [Open on Apify](https://apify.com/rigel-bytes/skool-scraper) |
 | Skyscanner Flights Scraper | [skyscanner-scraper](skyscanner-scraper/) | [Open on Apify](https://apify.com/rigelbytes/skyscanner-scraper) |
+| Social Media Content Outlier Finder | [social-media-content-outlier](social-media-content-outlier/) | [Open on Apify](https://apify.com/datascrapers/social-media-content-outlier) |
 | Sreality.cz Real Estate Scraper | [sreality-scraper](sreality-scraper/) | [Open on Apify](https://apify.com/datascrapers/sreality-scraper) |
 | Stayz.com.au Scraper | [stayz-com-au](stayz-com-au/) | [Open on Apify](https://apify.com/rigelbytes/stayz-com-au) |
 | StreetEasy Scraper | [streeteasy-scraper](streeteasy-scraper/) | [Open on Apify](https://apify.com/rigelbytes/streeteasy-scraper) |
