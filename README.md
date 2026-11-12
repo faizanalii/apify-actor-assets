@@ -86,6 +86,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Kickstarter Scraper | [kickstarter-scraper](kickstarter-scraper/) | [Open on Apify](https://apify.com/rigelbytes/kickstarter-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | LandWatch Land for Sale Scraper | [landwatch-scraper](landwatch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landwatch-scraper) |
+| LeadRocks Scraper | [leadrocks-scraper](leadrocks-scraper/) | [Open on Apify](https://apify.com/datascrapers/leadrocks-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
 | Levi's Scraper | [levi-scraper](levi-scraper/) | [Open on Apify](https://apify.com/datascrapers/levi-scraper) |
 | MagicBricks Scraper | [magicbricks-scraper](magicbricks-scraper/) | [Open on Apify](https://apify.com/rigelbytes/magicbricks-scraper) |
