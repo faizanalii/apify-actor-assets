@@ -139,6 +139,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Zillow Agents Database | [zillow-agents-database](zillow-agents-database/) | [Open on Apify](https://apify.com/datascrapers/zillow-agents-database) |
 | Zillow Agents Scraper | [zillow-agents-scraper](zillow-agents-scraper/) | [Open on Apify](https://apify.com/datascrapers/zillow-agents-scraper) |
 | Zillow Agents Vault | [zillow-agents-vault](zillow-agents-vault/) | [Open on Apify](https://apify.com/datascrapers/zillow-agents-vault) |
+| Zocdoc Doctor Scraper | [zocdoc-scraper](zocdoc-scraper/) | [Open on Apify](https://apify.com/datascrapers/zocdoc-scraper) |
 <!-- actors-index:end -->
 
 ## Folder layout
