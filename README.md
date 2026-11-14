@@ -83,6 +83,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |
 | Instacart Store Scraper | [instacart-store-scraper](instacart-store-scraper/) | [Open on Apify](https://apify.com/datascrapers/instacart-store-scraper) |
 | Instagram Email Scraper | [instagram-email-scraper](instagram-email-scraper/) | [Open on Apify](https://apify.com/datascrapers/instagram-email-scraper) |
+| Instagram Engagement Tool | [instagram-engagement-tool](instagram-engagement-tool/) | [Open on Apify](https://apify.com/datascrapers/instagram-engagement-tool) |
 | Instagram Hashtag Scraper | [instagram-hashtag-scraper](instagram-hashtag-scraper/) | [Open on Apify](https://apify.com/datascrapers/instagram-hashtag-scraper) |
 | SEC IPO Event Intelligence | [ipo-events-api](ipo-events-api/) | [Open on Apify](https://apify.com/datascrapers/ipo-events-api) |
 | Kickstarter Scraper | [kickstarter-scraper](kickstarter-scraper/) | [Open on Apify](https://apify.com/rigelbytes/kickstarter-scraper) |
