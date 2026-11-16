@@ -110,6 +110,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Remote OK Scraper | [remoteok-scraper](remoteok-scraper/) | [Open on Apify](https://apify.com/rigelbytes/remoteok-scraper) |
 | Rotten Tomatoes Reviews Scraper | [rottentomatoes-reviews-scraper](rottentomatoes-reviews-scraper/) | [Open on Apify](https://apify.com/datascrapers/rottentomatoes-reviews-scraper) |
 | Ryanair Flight Availability Scraper | [ryanair-scraper](ryanair-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ryanair-scraper) |
+| Savills Property Scraper | [savills-scraper](savills-scraper/) | [Open on Apify](https://apify.com/datascrapers/savills-scraper) |
 | SEEK Australia Jobs Scraper | [seek-au-jobs-scraper](seek-au-jobs-scraper/) | [Open on Apify](https://apify.com/rigelbytes/seek-au-jobs-scraper) |
 | SHEIN Scraper | [shein-scraper](shein-scraper/) | [Open on Apify](https://apify.com/datascrapers/shein-scraper) |
 | Singapore Real Estate Agents | [singapore-realestate-agents](singapore-realestate-agents/) | [Open on Apify](https://apify.com/datascrapers/singapore-realestate-agents) |
