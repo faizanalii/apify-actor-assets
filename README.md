@@ -92,7 +92,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | LeadRocks Scraper | [leadrocks-scraper](leadrocks-scraper/) | [Open on Apify](https://apify.com/datascrapers/leadrocks-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper) |
 | Levi's Scraper | [levi-scraper](levi-scraper/) | [Open on Apify](https://apify.com/datascrapers/levi-scraper) |
-| MagicBricks Scraper | [magicbricks-scraper](magicbricks-scraper/) | [Open on Apify](https://apify.com/rigelbytes/magicbricks-scraper) |
+| MagicBricks Scraper | [magicbricks-scraper](magicbricks-scraper/) | [Open on Apify](https://apify.com/datascrapers/magicbricks-scraper) |
 | Manta Scraper | [manta-scraper](manta-scraper/) | [Open on Apify](https://apify.com/rigelbytes/manta-scraper) |
 | Marktplaats.nl Scraper | [marktplaats-nl-scraper](marktplaats-nl-scraper/) | [Open on Apify](https://apify.com/datascrapers/marktplaats-nl-scraper) |
 | MediaMarkt Germany Product Scraper | [mediamarkt-de-scraper](mediamarkt-de-scraper/) | [Open on Apify](https://apify.com/datascrapers/mediamarkt-de-scraper) |
