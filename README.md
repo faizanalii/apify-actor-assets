@@ -73,7 +73,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Google Search Scraper | [google-scraper](google-scraper/) | [Open on Apify](https://apify.com/datascrapers/google-scraper) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
 | H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/datascrapers/h-and-m-scraper) |
-| HAR.com Scraper | [har-com-scraper](har-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/har-com-scraper) |
+| HAR.com Scraper | [har-com-scraper](har-com-scraper/) | [Open on Apify](https://apify.com/datascrapers/har-com-scraper) |
 | Hemnet.se Scraper | [hemnet-se-scraper](hemnet-se-scraper/) | [Open on Apify](https://apify.com/datascrapers/hemnet-se-scraper) |
 | hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/datascrapers/hipages-au-scraper) |
 | HomeAdvisor Reviews Scraper | [homeadvisor-reviews-scraper](homeadvisor-reviews-scraper/) | [Open on Apify](https://apify.com/datascrapers/homeadvisor-reviews-scraper) |
