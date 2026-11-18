@@ -88,6 +88,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Instagram Hashtag Scraper | [instagram-hashtag-scraper](instagram-hashtag-scraper/) | [Open on Apify](https://apify.com/datascrapers/instagram-hashtag-scraper) |
 | SEC IPO Event Intelligence | [ipo-events-api](ipo-events-api/) | [Open on Apify](https://apify.com/datascrapers/ipo-events-api) |
 | Kickstarter Scraper | [kickstarter-scraper](kickstarter-scraper/) | [Open on Apify](https://apify.com/rigelbytes/kickstarter-scraper) |
+| Krogsveen Scraper | [krogsveen-no-scraper](krogsveen-no-scraper/) | [Open on Apify](https://apify.com/datascrapers/krogsveen-no-scraper) |
 | LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
 | LandWatch Land for Sale Scraper | [landwatch-scraper](landwatch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landwatch-scraper) |
 | LeadRocks Scraper | [leadrocks-scraper](leadrocks-scraper/) | [Open on Apify](https://apify.com/datascrapers/leadrocks-scraper) |
