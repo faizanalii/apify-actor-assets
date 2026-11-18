@@ -78,7 +78,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/datascrapers/hipages-au-scraper) |
 | HomeAdvisor Reviews Scraper | [homeadvisor-reviews-scraper](homeadvisor-reviews-scraper/) | [Open on Apify](https://apify.com/datascrapers/homeadvisor-reviews-scraper) |
 | HouseSigma Scraper | [housesigma-scraper](housesigma-scraper/) | [Open on Apify](https://apify.com/datascrapers/housesigma-scraper) |
-| Housing.com Scraper | [housing-com-scraper](housing-com-scraper/) | [Open on Apify](https://apify.com/rigelbytes/housing-com-scraper) |
+| Housing.com Scraper | [housing-com-scraper](housing-com-scraper/) | [Open on Apify](https://apify.com/datascrapers/housing-com-scraper) |
 | Houzz Projects Scraper | [houzz-scraper](houzz-scraper/) | [Open on Apify](https://apify.com/datascrapers/houzz-scraper) |
 | HRS Hotel Reviews Scraper | [hrs-hotel-reviews-scraper](hrs-hotel-reviews-scraper/) | [Open on Apify](https://apify.com/datascrapers/hrs-hotel-reviews-scraper) |
 | IKEA Product Scraper | [ikea-scraper](ikea-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ikea-scraper) |

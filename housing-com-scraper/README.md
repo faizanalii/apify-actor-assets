@@ -1,22 +1,22 @@
 # Housing.com Scraper
 
-**Housing.com Scraper** is an Apify Actor by Rigel Bytes for Housing.com data.
+**Housing.com Scraper** is an Apify Actor by Data Scrapers for Housing.com data.
 
 This folder hosts the public demo GIF used on the Actor README. The scraper itself runs on Apify Store — not in this repository.
 
-**[Housing.com Scraper on Apify](https://apify.com/rigelbytes/housing-com-scraper)**
+**[Housing.com Scraper on Apify](https://apify.com/datascrapers/housing-com-scraper)**
 
-[![Housing.com Scraper — input to structured data](./housing-com-scraper-value-demo.gif)](https://apify.com/rigelbytes/housing-com-scraper)
+[![Housing.com Scraper — input to structured data](./housing-com-scraper-value-demo.gif)](https://apify.com/datascrapers/housing-com-scraper)
 
 ## What this Housing.com scraper does
 
-Scrape Housing.com property listings from a city search or URL. Export prices, localities, BHK, and optional agent names for inventory research and outreach.
+Housing.com listings with locality, type, price, and city.
 
 Use it as a Housing.com scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
 ## Start here
 
-1. Open [Housing.com Scraper](https://apify.com/rigelbytes/housing-com-scraper) on Apify Store.
+1. Open [Housing.com Scraper](https://apify.com/datascrapers/housing-com-scraper) on Apify Store.
 2. Paste your Housing.com URLs, queries, or other documented inputs.
 3. Click **Start** and export JSON, CSV, Excel, or XML.
 
