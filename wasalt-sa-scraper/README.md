@@ -1,23 +1,23 @@
-# Wasalt.sa Real Estate Scraper
+# Wasalt Scraper
 
-**Wasalt.sa Real Estate Scraper** is an Apify Actor by Rigel Bytes for Wasalt.sa data.
+**Wasalt Scraper** is an Apify Actor by Data Scrapers for Wasalt data.
 
 This folder hosts the public demo GIF used on the Actor README. The scraper itself runs on Apify Store — not in this repository.
 
-**[Wasalt.sa Real Estate Scraper on Apify](https://apify.com/rigelbytes/wasalt-sa-scraper)**
+**[Wasalt Scraper on Apify](https://apify.com/datascrapers/wasalt-sa-scraper)**
 
-[![Wasalt.sa Real Estate Scraper — input to structured data](./wasalt-sa-scraper-value-demo.gif)](https://apify.com/rigelbytes/wasalt-sa-scraper)
+[![Wasalt Scraper — input to structured data](./wasalt-sa-scraper-value-demo.gif)](https://apify.com/datascrapers/wasalt-sa-scraper)
 
-## What this Wasalt.sa scraper does
+## What this Wasalt scraper does
 
-Scrape Wasalt.sa property listings from city searches or URLs. Export prices, beds, locations, and image URLs for Saudi market research, CRM, and alerts.
+Wasalt listings with city, property type, price, and bedroom count.
 
-Use it as a Wasalt.sa scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
+Use it as a Wasalt scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
 ## Start here
 
-1. Open [Wasalt.sa Real Estate Scraper](https://apify.com/rigelbytes/wasalt-sa-scraper) on Apify Store.
-2. Paste your Wasalt.sa URLs, queries, or other documented inputs.
+1. Open [Wasalt Scraper](https://apify.com/datascrapers/wasalt-sa-scraper) on Apify Store.
+2. Paste your Wasalt URLs, queries, or other documented inputs.
 3. Click **Start** and export JSON, CSV, Excel, or XML.
 
-If you found this GitHub page while looking for a Wasalt.sa scraper, use the Apify link above to run it.
+If you found this GitHub page while looking for a Wasalt scraper, use the Apify link above to run it.

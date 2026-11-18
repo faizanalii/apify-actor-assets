@@ -141,7 +141,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Under Armour Scraper | [underarmour-scraper](underarmour-scraper/) | [Open on Apify](https://apify.com/datascrapers/underarmour-scraper) |
 | Upwork Jobs Scraper | [upwork-jobs-scraper](upwork-jobs-scraper/) | [Open on Apify](https://apify.com/datascrapers/upwork-jobs-scraper) |
 | Walmart Scraper | [walmart-scraper](walmart-scraper/) | [Open on Apify](https://apify.com/rigelbytes/walmart-scraper) |
-| Wasalt.sa Real Estate Scraper | [wasalt-sa-scraper](wasalt-sa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/wasalt-sa-scraper) |
+| Wasalt Scraper | [wasalt-sa-scraper](wasalt-sa-scraper/) | [Open on Apify](https://apify.com/datascrapers/wasalt-sa-scraper) |
 | Zapier Apps Scraper | [zapier-apps-scraper](zapier-apps-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zapier-apps-scraper) |
 | Zara Scraper | [zara-scraper](zara-scraper/) | [Open on Apify](https://apify.com/rigelbytes/zara-scraper) |
 | Zillow Agents Database | [zillow-agents-database](zillow-agents-database/) | [Open on Apify](https://apify.com/datascrapers/zillow-agents-database) |
