@@ -100,6 +100,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | MediaMarkt Germany Product Scraper | [mediamarkt-de-scraper](mediamarkt-de-scraper/) | [Open on Apify](https://apify.com/datascrapers/mediamarkt-de-scraper) |
 | Naukri Job Scraper | [naukri-scraper](naukri-scraper/) | [Open on Apify](https://apify.com/datascrapers/naukri-scraper) |
 | Nike Scraper | [nike-scraper](nike-scraper/) | [Open on Apify](https://apify.com/rigelbytes/nike-scraper) |
+| Nybolig Scraper | [nybolig-dk-scraper](nybolig-dk-scraper/) | [Open on Apify](https://apify.com/datascrapers/nybolig-dk-scraper) |
 | Old Navy Scraper | [oldnavy-gap-scraper](oldnavy-gap-scraper/) | [Open on Apify](https://apify.com/datascrapers/oldnavy-gap-scraper) |
 | Open Construction Estimate Scraper | [openconstructionestimate-scraper](openconstructionestimate-scraper/) | [Open on Apify](https://apify.com/datascrapers/openconstructionestimate-scraper) |
 | OTTO.de Scraper | [otto-de-scraper](otto-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/otto-de-scraper) |
