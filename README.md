@@ -54,7 +54,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Doctolib Doctor Scraper | [doctolib-scraper](doctolib-scraper/) | [Open on Apify](https://apify.com/datascrapers/doctolib-scraper) |
 | Doctolib Doctor Scraper | [doctorlib-scraper](doctorlib-scraper/) | [Open on Apify](https://apify.com/datascrapers/doctorlib-scraper) |
 | DoorDash Scraper | [doordash-scraper](doordash-scraper/) | [Open on Apify](https://apify.com/rigelbytes/doordash-scraper) |
-| Dubizzle KSA Scraper | [dubizzle-ksa-scraper](dubizzle-ksa-scraper/) | [Open on Apify](https://apify.com/rigelbytes/dubizzle-ksa-scraper) |
+| Dubizzle KSA Scraper | [dubizzle-ksa-scraper](dubizzle-ksa-scraper/) | [Open on Apify](https://apify.com/datascrapers/dubizzle-ksa-scraper) |
 | Dubizzle UAE Scraper | [dubizzle-scraper](dubizzle-scraper/) | [Open on Apify](https://apify.com/scraptivo/dubizzle-scraper) |
 | easyJet Flight Availability & Price Scraper | [easyjet-scraper](easyjet-scraper/) | [Open on Apify](https://apify.com/datascrapers/easyJet-scraper) |
 | eBay Product Scraper | [ebay-scraper](ebay-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ebay-scraper) |
