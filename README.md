@@ -72,6 +72,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | Furnished Finder Listings and Host Contact Info | [furnishedfinder-listings-and-host-contact-info](furnishedfinder-listings-and-host-contact-info/) | [Open on Apify](https://apify.com/datascrapers/furnishedfinder-listings-and-host-contact-info) |
 | Google Ads Transparency Scraper | [google-ads-scraper](google-ads-scraper/) | [Open on Apify](https://apify.com/datascrapers/google-ads-scraper) |
 | Google Search Scraper | [google-scraper](google-scraper/) | [Open on Apify](https://apify.com/datascrapers/google-scraper) |
+| Grand City Property | [grandcityproperty](grandcityproperty/) | [Open on Apify](https://apify.com/datascrapers/grandcityproperty) |
 | Gumtree Scraper | [gumtree-scraper](gumtree-scraper/) | [Open on Apify](https://apify.com/rigelbytes/gumtree-scraper) |
 | H&M Scraper | [h-and-m-scraper](h-and-m-scraper/) | [Open on Apify](https://apify.com/datascrapers/h-and-m-scraper) |
 | HAR.com Scraper | [har-com-scraper](har-com-scraper/) | [Open on Apify](https://apify.com/datascrapers/har-com-scraper) |
