@@ -60,6 +60,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | eBay Product Scraper | [ebay-scraper](ebay-scraper/) | [Open on Apify](https://apify.com/rigelbytes/ebay-scraper) |
 | Electromaps Scraper | [electromaps-scraper](electromaps-scraper/) | [Open on Apify](https://apify.com/datascrapers/electromaps-scraper) |
 | Esselunga Scraper | [esselunga-scraper](esselunga-scraper/) | [Open on Apify](https://apify.com/datascrapers/esselunga-scraper) |
+| Etuovi Scraper | [etuovi-scraper](etuovi-scraper/) | [Open on Apify](https://apify.com/datascrapers/etuovi-scraper) |
 | Facebook Ads Library Scraper | [facebook-ads-scraper](facebook-ads-scraper/) | [Open on Apify](https://apify.com/rigelbytes/facebook-ads-scraper) |
 | Facebook Groups Scraper | [facebook-groups-scraper](facebook-groups-scraper/) | [Open on Apify](https://apify.com/datascrapers/facebook-groups-scraper) |
 | Facebook Marketplace Scraper | [facebook-marketplace](facebook-marketplace/) | [Open on Apify](https://apify.com/rigelbytes/facebook-marketplace) |
