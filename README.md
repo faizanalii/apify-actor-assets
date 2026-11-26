@@ -92,7 +92,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | SEC IPO Event Intelligence | [ipo-events-api](ipo-events-api/) | [Open on Apify](https://apify.com/datascrapers/ipo-events-api) |
 | Kickstarter Scraper | [kickstarter-scraper](kickstarter-scraper/) | [Open on Apify](https://apify.com/rigelbytes/kickstarter-scraper) |
 | Krogsveen Scraper | [krogsveen-no-scraper](krogsveen-no-scraper/) | [Open on Apify](https://apify.com/datascrapers/krogsveen-no-scraper) |
-| LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/rigelbytes/landsearch-scraper) |
+| LandSearch Scraper | [landsearch-scraper](landsearch-scraper/) | [Open on Apify](https://apify.com/datascrapers/landsearch-scraper) |
 | LandWatch Scraper | [landwatch-scraper](landwatch-scraper/) | [Open on Apify](https://apify.com/datascrapers/landwatch-scraper) |
 | LeadRocks Scraper | [leadrocks-scraper](leadrocks-scraper/) | [Open on Apify](https://apify.com/datascrapers/leadrocks-scraper) |
 | Leboncoin Listing Scraper | [leboncoin-listing-scraper](leboncoin-listing-scraper/) | [Open on Apify](https://apify.com/datascrapers/leboncoin-listing-scraper) |
