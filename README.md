@@ -108,6 +108,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | OTTO.de Scraper | [otto-de-scraper](otto-de-scraper/) | [Open on Apify](https://apify.com/rigelbytes/otto-de-scraper) |
 | Properstar Real Estate Scraper | [properstar-scraper](properstar-scraper/) | [Open on Apify](https://apify.com/rigelbytes/properstar-scraper) |
 | Property Finder Bahrain | [propertyfinder-bahrain](propertyfinder-bahrain/) | [Open on Apify](https://apify.com/datascrapers/propertyfinder-bahrain) |
+| Property Finder Egypt Scraper | [propertyfinder-eygpt](propertyfinder-eygpt/) | [Open on Apify](https://apify.com/datascrapers/propertyfinder-eygpt) |
 | Qatar Airways Flight Scraper | [qatarairways-scraper](qatarairways-scraper/) | [Open on Apify](https://apify.com/datascrapers/qatarairways-scraper) |
 | Realestate.com.au Scraper | [realestate-com-au-scraper](realestate-com-au-scraper/) | [Open on Apify](https://apify.com/rigelbytes/realestate-com-au-scraper) |
 | Red Note Scraper | [rednote-scraper](rednote-scraper/) | [Open on Apify](https://apify.com/rigelbytes/rednote-scraper) |
