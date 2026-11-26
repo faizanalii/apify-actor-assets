@@ -78,6 +78,7 @@ If you arrived here while searching for a scraper, open the actor folder and use
 | HAR.com Scraper | [har-com-scraper](har-com-scraper/) | [Open on Apify](https://apify.com/datascrapers/har-com-scraper) |
 | Hemnet.se Scraper | [hemnet-se-scraper](hemnet-se-scraper/) | [Open on Apify](https://apify.com/datascrapers/hemnet-se-scraper) |
 | hipages Australia Scraper | [hipages-au-scraper](hipages-au-scraper/) | [Open on Apify](https://apify.com/datascrapers/hipages-au-scraper) |
+| Home.dk Scraper | [home-dk-scraper](home-dk-scraper/) | [Open on Apify](https://apify.com/datascrapers/home-dk-scraper) |
 | HomeAdvisor Reviews Scraper | [homeadvisor-reviews-scraper](homeadvisor-reviews-scraper/) | [Open on Apify](https://apify.com/datascrapers/homeadvisor-reviews-scraper) |
 | HouseSigma Scraper | [housesigma-scraper](housesigma-scraper/) | [Open on Apify](https://apify.com/datascrapers/housesigma-scraper) |
 | Housing.com Scraper | [housing-com-scraper](housing-com-scraper/) | [Open on Apify](https://apify.com/datascrapers/housing-com-scraper) |
