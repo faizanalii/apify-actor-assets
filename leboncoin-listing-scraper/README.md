@@ -1,22 +1,22 @@
 # Leboncoin Listing Scraper
 
-**Leboncoin Listing Scraper** is an Apify Actor by Rigel Bytes for Leboncoin data.
+**Leboncoin Listing Scraper** is an Apify Actor by Data Scrapers for Leboncoin data.
 
 This folder hosts the public demo GIF used on the Actor README. The scraper itself runs on Apify Store — not in this repository.
 
-**[Leboncoin Listing Scraper on Apify](https://apify.com/rigelbytes/leboncoin-listing-scraper)**
+**[Leboncoin Listing Scraper on Apify](https://apify.com/datascrapers/leboncoin-listing-scraper)**
 
-[![Leboncoin Listing Scraper — input to structured data](./leboncoin-listing-scraper-value-demo.gif)](https://apify.com/rigelbytes/leboncoin-listing-scraper)
+[![Leboncoin Listing Scraper — input to structured data](./leboncoin-listing-scraper-value-demo.gif)](https://apify.com/datascrapers/leboncoin-listing-scraper)
 
 ## What this Leboncoin scraper does
 
-Extract Leboncoin listings from a search URL or keyword — titles, prices, locations, sellers, images, and phone availability for French market research.
+Leboncoin classified ads with subject, city, price, and list id.
 
 Use it as a Leboncoin scraper to extract structured data and export CSV, JSON, Excel, or XML from Apify.
 
 ## Start here
 
-1. Open [Leboncoin Listing Scraper](https://apify.com/rigelbytes/leboncoin-listing-scraper) on Apify Store.
+1. Open [Leboncoin Listing Scraper](https://apify.com/datascrapers/leboncoin-listing-scraper) on Apify Store.
 2. Paste your Leboncoin URLs, queries, or other documented inputs.
 3. Click **Start** and export JSON, CSV, Excel, or XML.
 
